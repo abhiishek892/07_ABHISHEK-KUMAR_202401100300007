@@ -7,6 +7,6 @@ The approach involves the following steps:
 4. Prediction: Predict the health risk levels for the test data.
 5. Evaluation: Calculate performance metrics like accuracy, precision, and recall.
 6. Visualization: Generate a heatmap of the confusion matrix to visualize model performance.
+![Output of Health Risk Classification](https://github.com/user-attachments/assets/f3a2886d-ccd9-4bd5-9cac-29cd9841e32a)
 Alogorith used:
    Random Forest:Random Forest is an ensemble learning algorithm that builds multiple decision trees and combines their results (via majority vote) to improve classification or regression accuracy.
-![Output of Health Risk Classification](https://github.com/user-attachments/assets/f3a2886d-ccd9-4bd5-9cac-29cd9841e32a)
