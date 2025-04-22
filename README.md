@@ -9,4 +9,4 @@ The approach involves the following steps:
 6. Visualization: Generate a heatmap of the confusion matrix to visualize model performance.
 Alogorith used:
    Random Forest:Random Forest is an ensemble learning algorithm that builds multiple decision trees and combines their results (via majority vote) to improve classification or regression accuracy.
-   
+![Output of Health Risk Classification](https://github.com/user-attachments/assets/f3a2886d-ccd9-4bd5-9cac-29cd9841e32a)
